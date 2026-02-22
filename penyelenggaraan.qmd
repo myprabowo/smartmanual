@@ -32,6 +32,7 @@ Digunakan untuk memantau status administrasi keuangan peserta.
 ## Folder dan Grup
 
 Fitur otomatisasi untuk menyiapkan dan menyimpan link folder Google Drive dan WhatsApp kelas.
+
 ![Tampilan menu Folder dan Grup.](images/03-drive-wa.png){#fig-folder-grup fig-align="center" width="100%"}
 
 -   **Buat Folder Data:** Klik tombol ini untuk menginstruksikan sistem membuat folder penyimpanan (*cloud*) secara otomatis. Folder tersebut sudah berisi struktur subfolder standar untuk menjaga keseragaman data.

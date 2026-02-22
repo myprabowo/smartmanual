@@ -114,7 +114,7 @@
     "href": "penyelenggaraan.html#folder-dan-grup",
     "title": "2  Modul Penyelenggaraan",
     "section": "2.4 Folder dan Grup",
-    "text": "2.4 Folder dan Grup\nFitur otomatisasi untuk menyiapkan dan menyimpan link folder Google Drive dan WhatsApp kelas. \n\nBuat Folder Data: Klik tombol ini untuk menginstruksikan sistem membuat folder penyimpanan (cloud) secara otomatis. Folder tersebut sudah berisi struktur subfolder standar untuk menjaga keseragaman data.\nBuat Grup WA: Klik tombol ini untuk membuat tautan grup komunikasi (WhatsApp). Petugas piket akan secara otomatis ditambahkan ke dalam grup sebagai Admin.\nTautan folder dan tautan bergabung (join link) grup akan muncul di layar setelah proses selesai. Jika belum muncul, tekan tombol Refresh.",
+    "text": "2.4 Folder dan Grup\nFitur otomatisasi untuk menyiapkan dan menyimpan link folder Google Drive dan WhatsApp kelas.\n\n\n\n\n\n\nFigure 2.2: Tampilan menu Folder dan Grup.\n\n\n\n\nBuat Folder Data: Klik tombol ini untuk menginstruksikan sistem membuat folder penyimpanan (cloud) secara otomatis. Folder tersebut sudah berisi struktur subfolder standar untuk menjaga keseragaman data.\nBuat Grup WA: Klik tombol ini untuk membuat tautan grup komunikasi (WhatsApp). Petugas piket akan secara otomatis ditambahkan ke dalam grup sebagai Admin.\nTautan folder dan tautan bergabung (join link) grup akan muncul di layar setelah proses selesai. Jika belum muncul, tekan tombol Refresh.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Modul Penyelenggaraan</span>"
     ]
@@ -134,7 +134,7 @@
     "href": "pasca.html#rekapitulasi-jp-jam-pelajaran",
     "title": "3  Modul Pasca Pelatihan",
     "section": "",
-    "text": "Kirim ke Keuangan: Pastikan data jadwal sudah final dan benar. Klik tombol Kirim (ikon pesawat kertas hijau). Sistem akan mengirimkan rekapitulasi lengkap (termasuk nama pengajar, NIP, NIK, dan nomor rekening) langsung ke worksheet keuangan (tanpa pengisian form manual) untuk memproses pencairan honorarium.",
+    "text": "Figure 3.1: Tampilan menu Rekapitulasi JP.\n\n\n\n\nKirim ke Keuangan: Pastikan data jadwal sudah final dan benar. Klik tombol Kirim (ikon pesawat kertas hijau). Sistem akan mengirimkan rekapitulasi lengkap (termasuk nama pengajar, NIP, NIK, dan nomor rekening) langsung ke worksheet keuangan (tanpa pengisian form manual) untuk memproses pencairan honorarium.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Modul Pasca Pelatihan</span>"
     ]

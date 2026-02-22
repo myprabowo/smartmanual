@@ -6,6 +6,8 @@ Modul ini digunakan untuk menyelesaikan tahap administrasi dan pelaporan setelah
 
 Sistem akan secara otomatis merekap dan menghitung total JP Utama serta JP Asisten untuk setiap pengajar, berdasarkan data jadwal yang telah diinput sebelumnya.
 
+![Tampilan menu Rekapitulasi JP.](images/04-rekap-jp.png){#fig-rekap-jp fig-align="center" width="100%"}
+
 -   **Kirim ke Keuangan:** Pastikan data jadwal sudah final dan benar. Klik tombol **Kirim** (ikon pesawat kertas hijau). Sistem akan mengirimkan rekapitulasi lengkap (termasuk nama pengajar, NIP, NIK, dan nomor rekening) langsung ke worksheet keuangan (tanpa pengisian form manual) untuk memproses pencairan honorarium.
 
 ## Sertifikat Peserta
