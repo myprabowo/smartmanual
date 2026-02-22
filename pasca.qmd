@@ -14,6 +14,8 @@ Sistem akan secara otomatis merekap dan menghitung total JP Utama serta JP Asist
 
 Menu untuk mengelola penomoran dan pencetakan sertifikat tanda tamat pelatihan.
 
+![Tampilan menu Sertifikat Peserta.](images/04-sertifikat-peserta.png){#fig-sertifikat-peserta fig-align="center" width="100%"}
+
 1.  Pilih program pelatihan pada menu *dropdown*.
 2.  **Download Template:** Klik untuk mengunduh format CSV yang sudah berisi ID dan Nama Peserta dari program tersebut.
 3.  **Isi Template:** Buka *file* CSV yang diunduh, lalu lengkapi kolom Nomor Sertifikat dan Tanggal Sertifikat yang diperoleh dari Sekretaris Direktur.

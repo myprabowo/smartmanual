@@ -4,7 +4,7 @@
 
 ## Memulai Penggunaan
 
-SMART dapat diakses secara online melalui jaringan internet umum pada alamat <https://docker.maiaidi.my.id>.
+SMART dapat diakses secara online melalui jaringan internet umum pada [tautan berikut](https://docker.maiaidi.my.id){.uri}.
 
 ![Tampilan layar login aplikasi SMART.](images/01-login-screen.png){#fig-login-screen fig-align="center" width="100%"}
 
