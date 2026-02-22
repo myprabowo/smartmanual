@@ -4,6 +4,8 @@
 
 ## Memulai Penggunaan
 
+SMART dapat diakses secara online melalui jaringan internet umum pada alamat <https://docker.maiaidi.my.id>.
+
 ![Tampilan layar login aplikasi SMART.](images/01-login-screen.png){#fig-login-screen fig-align="center" width="100%"}
 
 -   **Login:** Buka halaman utama aplikasi SMART. Masukkan *Username* dan *Password* yang telah diberikan. Akses menu yang muncul akan disesuaikan dengan peran Anda (Petugas Piket atau Administrator).

@@ -14,7 +14,7 @@
     "href": "index.html#memulai-penggunaan",
     "title": "Panduan Pengguna SMART",
     "section": "Memulai Penggunaan",
-    "text": "Memulai Penggunaan\n\n\n\n\n\n\nFigure 1: Tampilan layar login aplikasi SMART.\n\n\n\n\nLogin: Buka halaman utama aplikasi SMART. Masukkan Username dan Password yang telah diberikan. Akses menu yang muncul akan disesuaikan dengan peran Anda (Petugas Piket atau Administrator).\nNavigasi: Gunakan menu di bilah sisi (sidebar) sebelah kiri untuk berpindah antar modul aplikasi.\nProfil Pengguna: Di bagian atas sidebar, terdapat informasi nama dan peran Anda saat ini.\nTombol Aksi Cepat:\nRefresh: Berguna untuk menyinkronkan data di layar Anda dengan pembaruan terbaru dari pengguna/komputer lain.\nKeluar: Mengakhiri sesi Anda (Logout) secara aman.",
+    "text": "Memulai Penggunaan\nSMART dapat diakses secara online melalui jaringan internet umum pada alamat https://docker.maiaidi.my.id.\n\n\n\n\n\n\nFigure 1: Tampilan layar login aplikasi SMART.\n\n\n\n\nLogin: Buka halaman utama aplikasi SMART. Masukkan Username dan Password yang telah diberikan. Akses menu yang muncul akan disesuaikan dengan peran Anda (Petugas Piket atau Administrator).\nNavigasi: Gunakan menu di bilah sisi (sidebar) sebelah kiri untuk berpindah antar modul aplikasi.\nProfil Pengguna: Di bagian atas sidebar, terdapat informasi nama dan peran Anda saat ini.\nTombol Aksi Cepat:\nRefresh: Berguna untuk menyinkronkan data di layar Anda dengan pembaruan terbaru dari pengguna/komputer lain.\nKeluar: Mengakhiri sesi Anda (Logout) secara aman.",
     "crumbs": [
       "Akses Sistem dan Navigasi Dasar"
     ]
@@ -64,7 +64,7 @@
     "href": "persiapan.html#jadwal-pengajar",
     "title": "1  Modul Persiapan Pelatihan",
     "section": "1.3 Jadwal & Pengajar",
-    "text": "1.3 Jadwal & Pengajar\nMenu ini untuk menyusun agenda harian dan menugaskan pengajar.\n\nPilih program pelatihan yang dituju.\nKlik Tambah untuk memasukkan jadwal harian secara manual. Anda dapat memilih Pengajar Utama dan Asisten Pengajar dari daftar yang tersedia.\nAnda juga dapat menggunakan fitur Upload CSV untuk mengimpor jadwal secara massal. Sistem secara otomatis akan mencocokkan teks nama pengajar di CSV dengan database master pengajar di sistem.\nKetika melakukan Upload CSV jadwal, pastikan menggunakan penulisan nama yang sesuai dengan data yang telah ada dalam database. Jika penulisan nama tidak sesuai atau data pengajar belum ada, maka nama pengajar akan terekam sebagai Unknown dan perlu diperbaiki dengan tombol Edit untuk memilih nama pengajar dari dalam daftar.",
+    "text": "1.3 Jadwal & Pengajar\nMenu ini untuk menyusun agenda harian dan menugaskan pengajar.\n\n\n\n\n\n\nFigure 1.3: Tampilan menu Jadwal & Pengajar.\n\n\n\n\nPilih program pelatihan yang dituju.\nKlik Tambah untuk memasukkan jadwal harian secara manual. Anda dapat memilih Pengajar Utama dan Asisten Pengajar dari daftar yang tersedia.\nAnda juga dapat menggunakan fitur Upload CSV untuk mengimpor jadwal secara massal. Sistem secara otomatis akan mencocokkan teks nama pengajar di CSV dengan database master pengajar di sistem.\nKetika melakukan Upload CSV jadwal, pastikan menggunakan penulisan nama yang sesuai dengan data yang telah ada dalam database. Jika penulisan nama tidak sesuai atau data pengajar belum ada, maka nama pengajar akan terekam sebagai Unknown dan perlu diperbaiki dengan tombol Edit untuk memilih nama pengajar dari dalam daftar.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modul Persiapan Pelatihan</span>"
     ]
