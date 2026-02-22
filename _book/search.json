@@ -64,7 +64,7 @@
     "href": "persiapan.html#jadwal-pengajar",
     "title": "1  Modul Persiapan Pelatihan",
     "section": "1.3 Jadwal & Pengajar",
-    "text": "1.3 Jadwal & Pengajar\nMenu ini untuk menyusun agenda harian dan menugaskan pengajar.\n\nPilih program pelatihan yang dituju.\nKlik Tambah untuk memasukkan jadwal harian secara manual. Anda dapat memilih Pengajar Utama dan Asisten Pengajar dari daftar yang tersedia.\nAnda juga dapat menggunakan fitur Upload CSV untuk mengimpor jadwal secara massal. Sistem secara otomatis akan mencocokkan teks nama pengajar di CSV dengan database master pengajar di sistem.",
+    "text": "1.3 Jadwal & Pengajar\nMenu ini untuk menyusun agenda harian dan menugaskan pengajar.\n\nPilih program pelatihan yang dituju.\nKlik Tambah untuk memasukkan jadwal harian secara manual. Anda dapat memilih Pengajar Utama dan Asisten Pengajar dari daftar yang tersedia.\nAnda juga dapat menggunakan fitur Upload CSV untuk mengimpor jadwal secara massal. Sistem secara otomatis akan mencocokkan teks nama pengajar di CSV dengan database master pengajar di sistem.\nKetika melakukan Upload CSV jadwal, pastikan menggunakan penulisan nama yang sesuai dengan data yang telah ada dalam database. Jika penulisan nama tidak sesuai atau data pengajar belum ada, maka nama pengajar akan terekam sebagai Unknown dan perlu diperbaiki dengan tombol Edit untuk memilih nama pengajar dari dalam daftar.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modul Persiapan Pelatihan</span>"
     ]
@@ -164,7 +164,7 @@
     "href": "master.html#mengelola-data-pengajar",
     "title": "4  Modul Data Master Pengajar",
     "section": "",
-    "text": "Melihat Data: Tabel menampilkan daftar lengkap pengajar terdaftar.\nTambah, Edit, Hapus: Gunakan tombol action di bagian atas tabel untuk memodifikasi data riwayat pengajar secara manual (Nama, NIP, Golongan, NIK, Instansi, Bank, dan Nomor Rekening).\nUpload Massal: Tersedia fitur Upload CSV jika Anda perlu menambahkan banyak pengajar sekaligus ke dalam basis data dari file eksternal.\n\n\n\n\n\n\n\nNote\n\n\n\nMenghapus pengajar di sini menggunakan sistem Soft Delete. Data pengajar akan disembunyikan dan dipindahkan ke Recycle Bin, sehingga riwayat mengajar di masa lalu tetap terjaga di database.",
+    "text": "Melihat Data: Tabel menampilkan daftar lengkap pengajar terdaftar.\nTambah, Edit, Hapus: Gunakan tombol action di bagian atas tabel untuk memodifikasi data riwayat pengajar secara manual (Nama, NIP, Golongan, NIK, Instansi, Bank, dan Nomor Rekening).\nUpload Massal: Tersedia fitur Upload CSV jika Anda perlu menambahkan banyak pengajar sekaligus ke dalam basis data dari file eksternal. Data pengajar dari internal PKN STAN telah disediakan.\n\n\n\n\n\n\n\nNote\n\n\n\nMenghapus pengajar di sini menggunakan sistem Soft Delete. Data pengajar akan disembunyikan dan dipindahkan ke Recycle Bin, sehingga riwayat mengajar di masa lalu tetap terjaga di database.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Modul Data Master Pengajar</span>"
     ]
