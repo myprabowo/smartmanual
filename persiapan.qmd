@@ -4,7 +4,6 @@ Modul ini digunakan pada tahap awal perencanaan sebelum diklat dimulai. Terdapat
 
 ## Program Pelatihan
 ![Tampilan menu Persiapan Pelatihan di aplikasi SMART.](images/02-master-program.png){#fig-menu-program fig-align="center" width="100%"}
-Tempat untuk membuat dan mengelola daftar program pelatihan.
 
 -   **Tambah Program:** Klik tombol **Tambah**, isi rincian program (Nama, Tanggal Mulai & Selesai, Mitra, Kuota, Lokasi, dan Petugas Piket), lalu klik **Simpan**.
 -   **Edit/Hapus Program:** Klik pada salah satu baris pelatihan untuk memilihnya, lalu tekan tombol **Edit** atau **Hapus**.
@@ -17,6 +16,8 @@ Ikon gembok (🔒) di sebelah nama program menandakan bahwa program tersebut tel
 ## Data Peserta
 
 Menu ini untuk mendaftarkan peserta ke dalam suatu program pelatihan. Jika pelatihan berjenis multipemda, maka pengisian data dilakukan secara mandiri pada saat mendaftar di Portal Pelatihan.
+
+![Tampilan menu Data Peserta.](images/02-data-peserta.png){#fig-menu-peserta fig-align="center" width="100%"}
 
 1.  Pilih program pelatihan pada *dropdown* "Pilih Program" di bagian atas.
 2.  **Tambah Manual:** Klik **Tambah** dan isi formulir data peserta (Nama, NIP, Instansi, dll).

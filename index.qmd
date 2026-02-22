@@ -4,7 +4,7 @@
 
 ## Memulai Penggunaan
 
-![Tampilan menu Persiapan Pelatihan di aplikasi SMART.](images/01-login-screen.png){#fig-login-screen fig-align="center" width="100%"}
+![Tampilan layar login aplikasi SMART.](images/01-login-screen.png){#fig-login-screen fig-align="center" width="100%"}
 
 -   **Login:** Buka halaman utama aplikasi SMART. Masukkan *Username* dan *Password* yang telah diberikan. Akses menu yang muncul akan disesuaikan dengan peran Anda (Petugas Piket atau Administrator).
 -   **Navigasi:** Gunakan menu di bilah sisi (*sidebar*) sebelah kiri untuk berpindah antar modul aplikasi.

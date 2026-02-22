@@ -14,7 +14,7 @@
     "href": "index.html#memulai-penggunaan",
     "title": "Panduan Pengguna SMART",
     "section": "Memulai Penggunaan",
-    "text": "Memulai Penggunaan\n\n\n\n\n\n\nFigure 1: Tampilan menu Persiapan Pelatihan di aplikasi SMART.\n\n\n\n\nLogin: Buka halaman utama aplikasi SMART. Masukkan Username dan Password yang telah diberikan. Akses menu yang muncul akan disesuaikan dengan peran Anda (Petugas Piket atau Administrator).\nNavigasi: Gunakan menu di bilah sisi (sidebar) sebelah kiri untuk berpindah antar modul aplikasi.\nProfil Pengguna: Di bagian atas sidebar, terdapat informasi nama dan peran Anda saat ini.\nTombol Aksi Cepat:\nRefresh: Berguna untuk menyinkronkan data di layar Anda dengan pembaruan terbaru dari pengguna/komputer lain.\nKeluar: Mengakhiri sesi Anda (Logout) secara aman.",
+    "text": "Memulai Penggunaan\n\n\n\n\n\n\nFigure 1: Tampilan layar login aplikasi SMART.\n\n\n\n\nLogin: Buka halaman utama aplikasi SMART. Masukkan Username dan Password yang telah diberikan. Akses menu yang muncul akan disesuaikan dengan peran Anda (Petugas Piket atau Administrator).\nNavigasi: Gunakan menu di bilah sisi (sidebar) sebelah kiri untuk berpindah antar modul aplikasi.\nProfil Pengguna: Di bagian atas sidebar, terdapat informasi nama dan peran Anda saat ini.\nTombol Aksi Cepat:\nRefresh: Berguna untuk menyinkronkan data di layar Anda dengan pembaruan terbaru dari pengguna/komputer lain.\nKeluar: Mengakhiri sesi Anda (Logout) secara aman.",
     "crumbs": [
       "Akses Sistem dan Navigasi Dasar"
     ]
@@ -34,7 +34,7 @@
     "href": "persiapan.html",
     "title": "1  Modul Persiapan Pelatihan",
     "section": "",
-    "text": "1.1 Program Pelatihan\nModul ini digunakan pada tahap awal perencanaan sebelum diklat dimulai. Terdapat tiga sub-menu utama untuk mengelola master data dari suatu pelatihan.\nTempat untuk membuat dan mengelola daftar program pelatihan.",
+    "text": "1.1 Program Pelatihan\nModul ini digunakan pada tahap awal perencanaan sebelum diklat dimulai. Terdapat tiga sub-menu utama untuk mengelola master data dari suatu pelatihan.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modul Persiapan Pelatihan</span>"
     ]
@@ -44,7 +44,7 @@
     "href": "persiapan.html#program-pelatihan",
     "title": "1  Modul Persiapan Pelatihan",
     "section": "",
-    "text": "Tambah Program: Klik tombol Tambah, isi rincian program (Nama, Tanggal Mulai & Selesai, Mitra, Kuota, Lokasi, dan Petugas Piket), lalu klik Simpan.\nEdit/Hapus Program: Klik pada salah satu baris pelatihan untuk memilihnya, lalu tekan tombol Edit atau Hapus.\nMengubah Status Penawaran: Klik langsung pada sel di kolom “Status Penawaran” untuk mengubah status antara Ditawarkan dan Ditutup. Jika status Ditawarkan dipilih, pelatihan tersebut akan muncul dan dapat diakses di Portal Pendaftaran Pelatihan.\n\n\n\n\n\n\n\nWarning\n\n\n\nIkon gembok (🔒) di sebelah nama program menandakan bahwa program tersebut telah dikunci oleh Administrator (admin lock). Anda hanya dapat melihat data, namun tidak dapat lagi mengubah data peserta, jadwal, maupun absensi pada program tersebut.",
+    "text": "Figure 1.1: Tampilan menu Persiapan Pelatihan di aplikasi SMART.\n\n\n\n\nTambah Program: Klik tombol Tambah, isi rincian program (Nama, Tanggal Mulai & Selesai, Mitra, Kuota, Lokasi, dan Petugas Piket), lalu klik Simpan.\nEdit/Hapus Program: Klik pada salah satu baris pelatihan untuk memilihnya, lalu tekan tombol Edit atau Hapus.\nMengubah Status Penawaran: Klik langsung pada sel di kolom “Status Penawaran” untuk mengubah status antara Ditawarkan dan Ditutup. Jika status Ditawarkan dipilih, pelatihan tersebut akan muncul dan dapat diakses di Portal Pendaftaran Pelatihan.\n\n\n\n\n\n\n\nWarning\n\n\n\nIkon gembok (🔒) di sebelah nama program menandakan bahwa program tersebut telah dikunci oleh Administrator (admin lock). Anda hanya dapat melihat data, namun tidak dapat lagi mengubah data peserta, jadwal, maupun absensi pada program tersebut.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modul Persiapan Pelatihan</span>"
     ]
@@ -54,7 +54,7 @@
     "href": "persiapan.html#data-peserta",
     "title": "1  Modul Persiapan Pelatihan",
     "section": "1.2 Data Peserta",
-    "text": "1.2 Data Peserta\nMenu ini untuk mendaftarkan peserta ke dalam suatu program pelatihan. Jika pelatihan berjenis multipemda, maka pengisian data dilakukan secara mandiri pada saat mendaftar di Portal Pelatihan.\n\nPilih program pelatihan pada dropdown “Pilih Program” di bagian atas.\nTambah Manual: Klik Tambah dan isi formulir data peserta (Nama, NIP, Instansi, dll).\nUpload CSV: Klik Upload CSV untuk memasukkan data peserta secara massal. Pastikan format kolom sudah sesuai dengan template yang ditentukan.\nEkspor VCF: Klik Ekspor VCF untuk mengunduh kontak peserta ke dalam format Phonebook smartphone Anda. Anda juga dapat menambahkan Prefix (kode grup, misal: “PBB01”) agar kontak peserta rapi di HP Anda. Setelah tersimpan di kontak HP, Anda dapat mengundang peserta ke dalam grup WhatsApp.",
+    "text": "1.2 Data Peserta\nMenu ini untuk mendaftarkan peserta ke dalam suatu program pelatihan. Jika pelatihan berjenis multipemda, maka pengisian data dilakukan secara mandiri pada saat mendaftar di Portal Pelatihan.\n\n\n\n\n\n\nFigure 1.2: Tampilan menu Data Peserta.\n\n\n\n\nPilih program pelatihan pada dropdown “Pilih Program” di bagian atas.\nTambah Manual: Klik Tambah dan isi formulir data peserta (Nama, NIP, Instansi, dll).\nUpload CSV: Klik Upload CSV untuk memasukkan data peserta secara massal. Pastikan format kolom sudah sesuai dengan template yang ditentukan.\nEkspor VCF: Klik Ekspor VCF untuk mengunduh kontak peserta ke dalam format Phonebook smartphone Anda. Anda juga dapat menambahkan Prefix (kode grup, misal: “PBB01”) agar kontak peserta rapi di HP Anda. Setelah tersimpan di kontak HP, Anda dapat mengundang peserta ke dalam grup WhatsApp.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modul Persiapan Pelatihan</span>"
     ]
