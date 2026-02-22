@@ -1,0 +1,202 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Panduan Pengguna SMART",
+    "section": "",
+    "text": "Akses Sistem dan Navigasi Dasar\nSistem Manajemen Training Terpadu (SMART) adalah sistem informasi berbasis web untuk mengelola seluruh siklus pelatihan, mulai dari tahap persiapan hingga pasca-pelatihan.",
+    "crumbs": [
+      "Akses Sistem dan Navigasi Dasar"
+    ]
+  },
+  {
+    "objectID": "index.html#memulai-penggunaan",
+    "href": "index.html#memulai-penggunaan",
+    "title": "Panduan Pengguna SMART",
+    "section": "Memulai Penggunaan",
+    "text": "Memulai Penggunaan\n\nLogin: Buka halaman utama aplikasi SMART. Masukkan Username dan Password yang telah diberikan. Akses menu yang muncul akan disesuaikan dengan peran Anda (Petugas Piket atau Administrator).\nNavigasi: Gunakan menu di bilah sisi (sidebar) sebelah kiri untuk berpindah antar modul aplikasi.\nProfil Pengguna: Di bagian atas sidebar, terdapat informasi nama dan peran Anda saat ini.\nTombol Aksi Cepat:\n\nRefresh: Berguna untuk menyinkronkan data di layar Anda dengan pembaruan terbaru dari pengguna/komputer lain.\nKeluar: Mengakhiri sesi Anda (Logout) secara aman.",
+    "crumbs": [
+      "Akses Sistem dan Navigasi Dasar"
+    ]
+  },
+  {
+    "objectID": "index.html#tips-tampilan-data",
+    "href": "index.html#tips-tampilan-data",
+    "title": "Panduan Pengguna SMART",
+    "section": "Tips Tampilan Data",
+    "text": "Tips Tampilan Data\n\nTabel pada sistem ini dirancang padat (squeezed) agar dapat menampilkan banyak data sekaligus.\nMelihat Teks Lengkap: Jika ada teks yang terpotong di dalam tabel, cukup arahkan kursor (hover) ke sel tersebut untuk melihat teks selengkapnya.\n\n\n\n\n\n\n\nTip\n\n\n\nSelalu biasakan menggunakan tombol Refresh sebelum melakukan perubahan data penting untuk memastikan Anda mengedit versi data yang paling mutakhir.",
+    "crumbs": [
+      "Akses Sistem dan Navigasi Dasar"
+    ]
+  },
+  {
+    "objectID": "persiapan.html",
+    "href": "persiapan.html",
+    "title": "1  Modul Persiapan Pelatihan",
+    "section": "",
+    "text": "1.1 Program Pelatihan\nModul ini digunakan pada tahap awal perencanaan sebelum diklat dimulai. Terdapat tiga sub-menu utama untuk mengelola master data dari suatu pelatihan.\nTempat untuk membuat dan mengelola daftar program pelatihan.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modul Persiapan Pelatihan</span>"
+    ]
+  },
+  {
+    "objectID": "persiapan.html#program-pelatihan",
+    "href": "persiapan.html#program-pelatihan",
+    "title": "1  Modul Persiapan Pelatihan",
+    "section": "",
+    "text": "Tambah Program: Klik tombol Tambah, isi rincian program (Nama, Tanggal Mulai & Selesai, Mitra, Kuota, Lokasi, dan Petugas Piket), lalu klik Simpan.\nEdit/Hapus Program: Klik pada salah satu baris pelatihan untuk memilihnya, lalu tekan tombol Edit atau Hapus.\nMengubah Status Penawaran: Klik langsung pada sel di kolom “Status Penawaran” untuk mengubah status antara Ditawarkan dan Ditutup. Jika status Ditawarkan dipilih, pelatihan tersebut akan muncul dan dapat diakses di Portal Pendaftaran Pelatihan.\n\n\n\n\n\n\n\nWarning\n\n\n\nIkon gembok (🔒) di sebelah nama program menandakan bahwa program tersebut telah dikunci oleh Administrator (admin lock). Anda hanya dapat melihat data, namun tidak dapat lagi mengubah data peserta, jadwal, maupun absensi pada program tersebut.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modul Persiapan Pelatihan</span>"
+    ]
+  },
+  {
+    "objectID": "persiapan.html#data-peserta",
+    "href": "persiapan.html#data-peserta",
+    "title": "1  Modul Persiapan Pelatihan",
+    "section": "1.2 Data Peserta",
+    "text": "1.2 Data Peserta\nMenu ini untuk mendaftarkan peserta ke dalam suatu program pelatihan. Jika pelatihan berjenis multipemda, maka pengisian data dilakukan secara mandiri pada saat mendaftar di Portal Pelatihan.\n\nPilih program pelatihan pada dropdown “Pilih Program” di bagian atas.\nTambah Manual: Klik Tambah dan isi formulir data peserta (Nama, NIP, Instansi, dll).\nUpload CSV: Klik Upload CSV untuk memasukkan data peserta secara massal. Pastikan format kolom sudah sesuai dengan template yang ditentukan.\nEkspor VCF: Klik Ekspor VCF untuk mengunduh kontak peserta ke dalam format Phonebook smartphone Anda. Anda juga dapat menambahkan Prefix (kode grup, misal: “PBB01”) agar kontak peserta rapi di HP Anda. Setelah tersimpan di kontak HP, Anda dapat mengundang peserta ke dalam grup WhatsApp.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modul Persiapan Pelatihan</span>"
+    ]
+  },
+  {
+    "objectID": "persiapan.html#jadwal-pengajar",
+    "href": "persiapan.html#jadwal-pengajar",
+    "title": "1  Modul Persiapan Pelatihan",
+    "section": "1.3 Jadwal & Pengajar",
+    "text": "1.3 Jadwal & Pengajar\nMenu ini untuk menyusun agenda harian dan menugaskan pengajar.\n\nPilih program pelatihan yang dituju.\nKlik Tambah untuk memasukkan jadwal harian secara manual. Anda dapat memilih Pengajar Utama dan Asisten Pengajar dari daftar yang tersedia.\nAnda juga dapat menggunakan fitur Upload CSV untuk mengimpor jadwal secara massal. Sistem secara otomatis akan mencocokkan teks nama pengajar di CSV dengan database master pengajar di sistem.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modul Persiapan Pelatihan</span>"
+    ]
+  },
+  {
+    "objectID": "penyelenggaraan.html",
+    "href": "penyelenggaraan.html",
+    "title": "2  Modul Penyelenggaraan",
+    "section": "",
+    "text": "2.1 Input Kehadiran Harian\nModul Penyelenggaraan adalah pusat operasional harian saat program diklat sedang berlangsung.\nFitur ini mencatat absensi peserta pelatihan dengan metode yang sangat cepat.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Modul Penyelenggaraan</span>"
+    ]
+  },
+  {
+    "objectID": "penyelenggaraan.html#input-kehadiran-harian",
+    "href": "penyelenggaraan.html#input-kehadiran-harian",
+    "title": "2  Modul Penyelenggaraan",
+    "section": "",
+    "text": "Pilih Program dan Hari/Tanggal pelatihan.\nTentukan Status Hari Ini (pilih antara “Hari Pelatihan” normal atau “Libur / Tanggal Merah”).\nCara Absen: Secara default, semua peserta dianggap Hadir. Cukup klik satu kali langsung pada kolom “Status” di baris peserta untuk mengubah status menjadi Tidak Hadir. Klik lagi untuk mengembalikannya menjadi Hadir.\nSistem otomatis menyimpan perubahan secara langsung.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Modul Penyelenggaraan</span>"
+    ]
+  },
+  {
+    "objectID": "penyelenggaraan.html#cetak-dokumen-operasional",
+    "href": "penyelenggaraan.html#cetak-dokumen-operasional",
+    "title": "2  Modul Penyelenggaraan",
+    "section": "2.2 Cetak Dokumen Operasional",
+    "text": "2.2 Cetak Dokumen Operasional\nBerfungsi untuk men-generate dokumen fisik yang dibutuhkan di kelas.\n\nPilih Program Pelatihan dan Tanggal.\nPilih dokumen yang ingin dicetak: Daftar Hadir, Kartu Mengajar, atau Daftar Hadir Pengajar.\nSistem akan memproses permintaan dan dokumen siap diunduh/dicetak.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Modul Penyelenggaraan</span>"
+    ]
+  },
+  {
+    "objectID": "penyelenggaraan.html#pembayaran",
+    "href": "penyelenggaraan.html#pembayaran",
+    "title": "2  Modul Penyelenggaraan",
+    "section": "2.3 Pembayaran",
+    "text": "2.3 Pembayaran\nDigunakan untuk memantau status administrasi keuangan peserta.\n\nMelihat Status: Tabel akan menampilkan rincian pembayaran, nominal, dan tautan ke file bukti transfer.\nMengubah Status: Klik baris peserta yang ingin diubah \\(\\rightarrow\\) klik Edit Status Pembayaran \\(\\rightarrow\\) perbarui status menjadi Diterima, Ditolak, atau Menunggu Verifikasi.\nMenghapus Pembayaran: Memilih status Belum Membayar akan mereset dan menghapus data pembayaran peserta tersebut dari sistem.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Modul Penyelenggaraan</span>"
+    ]
+  },
+  {
+    "objectID": "penyelenggaraan.html#folder-dan-grup",
+    "href": "penyelenggaraan.html#folder-dan-grup",
+    "title": "2  Modul Penyelenggaraan",
+    "section": "2.4 Folder dan Grup",
+    "text": "2.4 Folder dan Grup\nFitur otomatisasi untuk menyiapkan wadah aset digital kelas.\n\nBuat Folder Data: Klik tombol ini untuk menginstruksikan sistem membuat folder penyimpanan (cloud) secara otomatis.\nBuat Grup WA: Klik tombol ini untuk membuat tautan grup komunikasi (WhatsApp). Petugas piket akan secara otomatis ditambahkan ke dalam grup sebagai Admin.\nTautan folder dan tautan bergabung (join link) grup akan muncul di layar setelah proses selesai. Jika belum muncul, tekan tombol Refresh.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Modul Penyelenggaraan</span>"
+    ]
+  },
+  {
+    "objectID": "pasca.html",
+    "href": "pasca.html",
+    "title": "3  Modul Pasca Pelatihan",
+    "section": "",
+    "text": "3.1 Rekapitulasi JP (Jam Pelajaran)\nModul ini digunakan untuk menyelesaikan tahap administrasi dan pelaporan setelah pelatihan selesai.\nSistem akan secara otomatis merekap dan menghitung total JP Utama serta JP Asisten untuk setiap pengajar, berdasarkan data jadwal yang telah diinput sebelumnya.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Modul Pasca Pelatihan</span>"
+    ]
+  },
+  {
+    "objectID": "pasca.html#rekapitulasi-jp-jam-pelajaran",
+    "href": "pasca.html#rekapitulasi-jp-jam-pelajaran",
+    "title": "3  Modul Pasca Pelatihan",
+    "section": "",
+    "text": "Kirim ke Keuangan: Pastikan data jadwal sudah final dan benar. Klik tombol Kirim (ikon pesawat kertas hijau). Sistem akan mengirimkan rekapitulasi lengkap (termasuk nama pengajar, NIP, NIK, dan nomor rekening) langsung ke sistem Keuangan (via Webhook) untuk memproses pencairan honorarium.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Modul Pasca Pelatihan</span>"
+    ]
+  },
+  {
+    "objectID": "pasca.html#sertifikat-peserta",
+    "href": "pasca.html#sertifikat-peserta",
+    "title": "3  Modul Pasca Pelatihan",
+    "section": "3.2 Sertifikat Peserta",
+    "text": "3.2 Sertifikat Peserta\nMenu untuk mengelola penomoran dan pencetakan sertifikat tanda tamat pelatihan.\n\nPilih program pelatihan pada menu dropdown.\nDownload Template: Klik untuk mengunduh format CSV yang sudah berisi ID dan Nama Peserta dari program tersebut.\nIsi Template: Buka file CSV yang diunduh, lalu lengkapi kolom Nomor Sertifikat dan Tanggal Sertifikat.\nUpload Data: Klik Upload Data dan masukkan template yang telah Anda lengkapi.\nCetak Sertifikat: Klik tombol ini, dan sistem akan memproses file sertifikat yang siap untuk didistribusikan.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Modul Pasca Pelatihan</span>"
+    ]
+  },
+  {
+    "objectID": "master.html",
+    "href": "master.html",
+    "title": "4  Modul Data Master Pengajar",
+    "section": "",
+    "text": "4.1 Mengelola Data Pengajar\nModul ini adalah pusat direktori data seluruh Widyaiswara atau Pengajar. Data di sini menjadi acuan dasar untuk penjadwalan dan proses honorarium.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Modul Data Master Pengajar</span>"
+    ]
+  },
+  {
+    "objectID": "master.html#mengelola-data-pengajar",
+    "href": "master.html#mengelola-data-pengajar",
+    "title": "4  Modul Data Master Pengajar",
+    "section": "",
+    "text": "Melihat Data: Tabel menampilkan daftar lengkap pengajar terdaftar.\nTambah, Edit, Hapus: Gunakan tombol action di bagian atas tabel untuk memodifikasi data riwayat pengajar secara manual (Nama, NIP, Golongan, NIK, Instansi, Bank, dan Nomor Rekening).\nUpload Massal: Tersedia fitur Upload CSV jika Anda perlu menambahkan banyak pengajar sekaligus ke dalam basis data dari file eksternal.\n\n\n\n\n\n\n\nNote\n\n\n\nMenghapus pengajar di sini menggunakan sistem Soft Delete. Data pengajar akan disembunyikan dan dipindahkan ke Recycle Bin, sehingga riwayat mengajar di masa lalu tetap terjaga di database.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Modul Data Master Pengajar</span>"
+    ]
+  },
+  {
+    "objectID": "admin.html",
+    "href": "admin.html",
+    "title": "5  Modul Khusus Administrator",
+    "section": "",
+    "text": "5.1 Audit Log\nFitur keamanan untuk melacak seluruh jejak aktivitas pengguna di dalam sistem SMART. Sistem secara otomatis mencatat timestamp (stempel waktu), nama user, peran, tipe aktivitas (seperti login, menambah data, atau menghapus data), dan detail aktivitasnya.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modul Khusus Administrator</span>"
+    ]
+  },
+  {
+    "objectID": "admin.html#recycle-bin-tempat-sampah",
+    "href": "admin.html#recycle-bin-tempat-sampah",
+    "title": "5  Modul Khusus Administrator",
+    "section": "5.2 Recycle Bin (Tempat Sampah)",
+    "text": "5.2 Recycle Bin (Tempat Sampah)\n\nBerfungsi sebagai tempat penampungan sementara untuk data yang telah dihapus (Soft Delete) oleh pengguna.\nData yang dihapus tidak langsung hilang permanen dari database, melainkan masuk ke menu ini.\nAnda dapat meninjau data Peserta, Pengajar, atau Pelatihan yang dihapus.\nCara Memulihkan: Pilih baris data yang ingin dikembalikan, lalu klik tombol Pulihkan (ikon trash-restore). Data tersebut akan kembali muncul di sistem aktif.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modul Khusus Administrator</span>"
+    ]
+  },
+  {
+    "objectID": "admin.html#manajemen-kunci-pelatihan",
+    "href": "admin.html#manajemen-kunci-pelatihan",
+    "title": "5  Modul Khusus Administrator",
+    "section": "5.3 Manajemen Kunci Pelatihan",
+    "text": "5.3 Manajemen Kunci Pelatihan\n\nDigunakan untuk mengunci (Lock) program pelatihan yang pelaksanaannya sudah benar-benar Selesai.\nKlik pada salah satu baris pelatihan, lalu tekan tombol Kunci / Buka Kunci.\nProgram yang dikunci akan memunculkan ikon gembok merah.\nFungsi Kunci: Mencegah pengguna biasa menambah, mengedit, atau menghapus data peserta, jadwal, dan absensi pada program tersebut demi menjaga integritas data riwayat diklat.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modul Khusus Administrator</span>"
+    ]
+  }
+]

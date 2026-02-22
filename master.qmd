@@ -1,0 +1,13 @@
+# Modul Data Master Pengajar
+
+Modul ini adalah pusat direktori data seluruh Widyaiswara atau Pengajar. Data di sini menjadi acuan dasar untuk penjadwalan dan proses honorarium.
+
+## Mengelola Data Pengajar
+
+-   **Melihat Data:** Tabel menampilkan daftar lengkap pengajar terdaftar.
+-   **Tambah, Edit, Hapus:** Gunakan tombol *action* di bagian atas tabel untuk memodifikasi data riwayat pengajar secara manual (Nama, NIP, Golongan, NIK, Instansi, Bank, dan Nomor Rekening).
+-   **Upload Massal:** Tersedia fitur **Upload CSV** jika Anda perlu menambahkan banyak pengajar sekaligus ke dalam basis data dari *file* eksternal.
+
+::: callout-note
+Menghapus pengajar di sini menggunakan sistem *Soft Delete*. Data pengajar akan disembunyikan dan dipindahkan ke Recycle Bin, sehingga riwayat mengajar di masa lalu tetap terjaga di *database*.
+:::

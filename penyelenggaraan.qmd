@@ -1,0 +1,36 @@
+# Modul Penyelenggaraan
+
+Modul Penyelenggaraan adalah pusat operasional harian saat program diklat sedang berlangsung.
+
+## Input Kehadiran Harian
+
+Fitur ini mencatat absensi peserta pelatihan dengan metode yang sangat cepat.
+
+1.  Pilih Program dan Hari/Tanggal pelatihan.
+2.  Tentukan **Status Hari Ini** (pilih antara "Hari Pelatihan" normal atau "Libur / Tanggal Merah").
+3.  **Cara Absen:** Secara *default*, semua peserta dianggap Hadir. Cukup klik *satu kali* langsung pada kolom "Status" di baris peserta untuk mengubah status menjadi *Tidak Hadir*. Klik lagi untuk mengembalikannya menjadi *Hadir*.
+4.  Sistem otomatis menyimpan perubahan secara langsung.
+
+## Cetak Dokumen Operasional
+
+Berfungsi untuk men-*generate* dokumen fisik yang dibutuhkan di kelas.
+
+1.  Pilih Program Pelatihan dan Tanggal.
+2.  Pilih dokumen yang ingin dicetak: **Daftar Hadir**, **Kartu Mengajar**, atau **Daftar Hadir Pengajar**.
+3.  Sistem akan memproses permintaan dan dokumen siap diunduh/dicetak.
+
+## Pembayaran
+
+Digunakan untuk memantau status administrasi keuangan peserta.
+
+-   **Melihat Status:** Tabel akan menampilkan rincian pembayaran, nominal, dan tautan ke file bukti transfer.
+-   **Mengubah Status:** Klik baris peserta yang ingin diubah $\rightarrow$ klik **Edit Status Pembayaran** $\rightarrow$ perbarui status menjadi *Diterima*, *Ditolak*, atau *Menunggu Verifikasi*.
+-   **Menghapus Pembayaran:** Memilih status *Belum Membayar* akan mereset dan menghapus data pembayaran peserta tersebut dari sistem.
+
+## Folder dan Grup
+
+Fitur otomatisasi untuk menyiapkan wadah aset digital kelas.
+
+-   **Buat Folder Data:** Klik tombol ini untuk menginstruksikan sistem membuat folder penyimpanan (*cloud*) secara otomatis.
+-   **Buat Grup WA:** Klik tombol ini untuk membuat tautan grup komunikasi (*WhatsApp*). Petugas piket akan secara otomatis ditambahkan ke dalam grup sebagai Admin.
+-   Tautan folder dan tautan bergabung (*join link*) grup akan muncul di layar setelah proses selesai. Jika belum muncul, tekan tombol *Refresh*.

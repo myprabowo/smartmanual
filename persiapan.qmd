@@ -1,0 +1,32 @@
+# Modul Persiapan Pelatihan
+
+Modul ini digunakan pada tahap awal perencanaan sebelum diklat dimulai. Terdapat tiga sub-menu utama untuk mengelola master data dari suatu pelatihan.
+
+## Program Pelatihan
+
+Tempat untuk membuat dan mengelola daftar program pelatihan.
+
+-   **Tambah Program:** Klik tombol **Tambah**, isi rincian program (Nama, Tanggal Mulai & Selesai, Mitra, Kuota, Lokasi, dan Petugas Piket), lalu klik **Simpan**.
+-   **Edit/Hapus Program:** Klik pada salah satu baris pelatihan untuk memilihnya, lalu tekan tombol **Edit** atau **Hapus**.
+-   **Mengubah Status Penawaran:** Klik langsung pada sel di kolom "Status Penawaran" untuk mengubah status antara *Ditawarkan* dan *Ditutup*. Jika status *Ditawarkan* dipilih, pelatihan tersebut akan muncul dan dapat diakses di Portal Pendaftaran Pelatihan.
+
+::: callout-warning
+**I**kon gembok (🔒) di sebelah nama program menandakan bahwa program tersebut telah dikunci oleh Administrator (*admin lock*). Anda hanya dapat melihat data, namun tidak dapat lagi mengubah data peserta, jadwal, maupun absensi pada program tersebut.
+:::
+
+## Data Peserta
+
+Menu ini untuk mendaftarkan peserta ke dalam suatu program pelatihan. Jika pelatihan berjenis multipemda, maka pengisian data dilakukan secara mandiri pada saat mendaftar di Portal Pelatihan.
+
+1.  Pilih program pelatihan pada *dropdown* "Pilih Program" di bagian atas.
+2.  **Tambah Manual:** Klik **Tambah** dan isi formulir data peserta (Nama, NIP, Instansi, dll).
+3.  **Upload CSV:** Klik **Upload CSV** untuk memasukkan data peserta secara massal. Pastikan format kolom sudah sesuai dengan *template* yang ditentukan.
+4.  **Ekspor VCF:** Klik **Ekspor VCF** untuk mengunduh kontak peserta ke dalam format *Phonebook* *smartphone* Anda. Anda juga dapat menambahkan *Prefix* (kode grup, misal: "PBB01") agar kontak peserta rapi di HP Anda. Setelah tersimpan di kontak HP, Anda dapat mengundang peserta ke dalam grup WhatsApp.
+
+## Jadwal & Pengajar
+
+Menu ini untuk menyusun agenda harian dan menugaskan pengajar.
+
+1.  Pilih program pelatihan yang dituju.
+2.  Klik **Tambah** untuk memasukkan jadwal harian secara manual. Anda dapat memilih Pengajar Utama dan Asisten Pengajar dari daftar yang tersedia.
+3.  Anda juga dapat menggunakan fitur **Upload CSV** untuk mengimpor jadwal secara massal. Sistem secara otomatis akan mencocokkan teks nama pengajar di CSV dengan *database master* pengajar di sistem.
