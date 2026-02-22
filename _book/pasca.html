@@ -195,7 +195,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-number="3.1" class="anchored" data-anchor-id="rekapitulasi-jp-jam-pelajaran"><span class="header-section-number">3.1</span> Rekapitulasi JP (Jam Pelajaran)</h2>
 <p>Sistem akan secara otomatis merekap dan menghitung total JP Utama serta JP Asisten untuk setiap pengajar, berdasarkan data jadwal yang telah diinput sebelumnya.</p>
 <ul>
-<li><strong>Kirim ke Keuangan:</strong> Pastikan data jadwal sudah final dan benar. Klik tombol <strong>Kirim</strong> (ikon pesawat kertas hijau). Sistem akan mengirimkan rekapitulasi lengkap (termasuk nama pengajar, NIP, NIK, dan nomor rekening) langsung ke sistem Keuangan (via Webhook) untuk memproses pencairan honorarium.</li>
+<li><strong>Kirim ke Keuangan:</strong> Pastikan data jadwal sudah final dan benar. Klik tombol <strong>Kirim</strong> (ikon pesawat kertas hijau). Sistem akan mengirimkan rekapitulasi lengkap (termasuk nama pengajar, NIP, NIK, dan nomor rekening) langsung ke worksheet keuangan (tanpa pengisian form manual) untuk memproses pencairan honorarium.</li>
 </ul>
 </section>
 <section id="sertifikat-peserta" class="level2" data-number="3.2">
@@ -204,9 +204,9 @@ ul.task-list li input[type="checkbox"] {
 <ol type="1">
 <li>Pilih program pelatihan pada menu <em>dropdown</em>.</li>
 <li><strong>Download Template:</strong> Klik untuk mengunduh format CSV yang sudah berisi ID dan Nama Peserta dari program tersebut.</li>
-<li><strong>Isi Template:</strong> Buka <em>file</em> CSV yang diunduh, lalu lengkapi kolom Nomor Sertifikat dan Tanggal Sertifikat.</li>
+<li><strong>Isi Template:</strong> Buka <em>file</em> CSV yang diunduh, lalu lengkapi kolom Nomor Sertifikat dan Tanggal Sertifikat yang diperoleh dari Sekretaris Direktur.</li>
 <li><strong>Upload Data:</strong> Klik <strong>Upload Data</strong> dan masukkan <em>template</em> yang telah Anda lengkapi.</li>
-<li><strong>Cetak Sertifikat:</strong> Klik tombol ini, dan sistem akan memproses <em>file</em> sertifikat yang siap untuk didistribusikan.</li>
+<li><strong>Cetak Sertifikat:</strong> Klik tombol ini, dan sistem akan memproses <em>file</em> sertifikat, kemudian mengirimkan hasilnya ke alamat email pelatihan@pknstan.ac.id untuk diunggah ke sistem Nadine.</li>
 </ol>
 
 

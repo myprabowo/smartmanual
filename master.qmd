@@ -1,6 +1,6 @@
 # Modul Data Master Pengajar
 
-Modul ini adalah pusat direktori data seluruh Widyaiswara atau Pengajar. Data di sini menjadi acuan dasar untuk penjadwalan dan proses honorarium.
+Modul ini adalah pusat direktori data seluruh pengajar. Data di sini menjadi acuan dasar untuk penjadwalan dan proses honorarium.
 
 ## Mengelola Data Pengajar
 

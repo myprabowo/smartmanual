@@ -11,7 +11,7 @@ Tempat untuk membuat dan mengelola daftar program pelatihan.
 -   **Mengubah Status Penawaran:** Klik langsung pada sel di kolom "Status Penawaran" untuk mengubah status antara *Ditawarkan* dan *Ditutup*. Jika status *Ditawarkan* dipilih, pelatihan tersebut akan muncul dan dapat diakses di Portal Pendaftaran Pelatihan.
 
 ::: callout-warning
-**I**kon gembok (🔒) di sebelah nama program menandakan bahwa program tersebut telah dikunci oleh Administrator (*admin lock*). Anda hanya dapat melihat data, namun tidak dapat lagi mengubah data peserta, jadwal, maupun absensi pada program tersebut.
+Ikon gembok (🔒) di sebelah nama program menandakan bahwa program tersebut telah dikunci oleh Administrator (*admin lock*). Anda hanya dapat melihat data, namun tidak dapat lagi mengubah data peserta, jadwal, maupun absensi pada program tersebut.
 :::
 
 ## Data Peserta

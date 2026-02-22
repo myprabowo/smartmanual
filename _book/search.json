@@ -94,7 +94,7 @@
     "href": "penyelenggaraan.html#cetak-dokumen-operasional",
     "title": "2  Modul Penyelenggaraan",
     "section": "2.2 Cetak Dokumen Operasional",
-    "text": "2.2 Cetak Dokumen Operasional\nBerfungsi untuk men-generate dokumen fisik yang dibutuhkan di kelas.\n\nPilih Program Pelatihan dan Tanggal.\nPilih dokumen yang ingin dicetak: Daftar Hadir, Kartu Mengajar, atau Daftar Hadir Pengajar.\nSistem akan memproses permintaan dan dokumen siap diunduh/dicetak.",
+    "text": "2.2 Cetak Dokumen Operasional\nBerfungsi untuk men-generate dokumen fisik yang dibutuhkan di kelas.\n\nPilih Program Pelatihan dan Tanggal.\nPilih dokumen yang ingin dicetak: Daftar Hadir, Kartu Mengajar, atau Daftar Hadir Pengajar.\nSistem akan memproses permintaan dan dokumen yang di-generate akan dikirimkan ke email pelatihan@pknstan.ac.id.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Modul Penyelenggaraan</span>"
     ]
@@ -114,7 +114,7 @@
     "href": "penyelenggaraan.html#folder-dan-grup",
     "title": "2  Modul Penyelenggaraan",
     "section": "2.4 Folder dan Grup",
-    "text": "2.4 Folder dan Grup\nFitur otomatisasi untuk menyiapkan wadah aset digital kelas.\n\nBuat Folder Data: Klik tombol ini untuk menginstruksikan sistem membuat folder penyimpanan (cloud) secara otomatis.\nBuat Grup WA: Klik tombol ini untuk membuat tautan grup komunikasi (WhatsApp). Petugas piket akan secara otomatis ditambahkan ke dalam grup sebagai Admin.\nTautan folder dan tautan bergabung (join link) grup akan muncul di layar setelah proses selesai. Jika belum muncul, tekan tombol Refresh.",
+    "text": "2.4 Folder dan Grup\nFitur otomatisasi untuk menyiapkan wadah aset digital kelas.\n\nBuat Folder Data: Klik tombol ini untuk menginstruksikan sistem membuat folder penyimpanan (cloud) secara otomatis. Folder tersebut sudah berisi struktur subfolder standar untuk menjaga keseragaman data.\nBuat Grup WA: Klik tombol ini untuk membuat tautan grup komunikasi (WhatsApp). Petugas piket akan secara otomatis ditambahkan ke dalam grup sebagai Admin.\nTautan folder dan tautan bergabung (join link) grup akan muncul di layar setelah proses selesai. Jika belum muncul, tekan tombol Refresh.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Modul Penyelenggaraan</span>"
     ]
@@ -134,7 +134,7 @@
     "href": "pasca.html#rekapitulasi-jp-jam-pelajaran",
     "title": "3  Modul Pasca Pelatihan",
     "section": "",
-    "text": "Kirim ke Keuangan: Pastikan data jadwal sudah final dan benar. Klik tombol Kirim (ikon pesawat kertas hijau). Sistem akan mengirimkan rekapitulasi lengkap (termasuk nama pengajar, NIP, NIK, dan nomor rekening) langsung ke sistem Keuangan (via Webhook) untuk memproses pencairan honorarium.",
+    "text": "Kirim ke Keuangan: Pastikan data jadwal sudah final dan benar. Klik tombol Kirim (ikon pesawat kertas hijau). Sistem akan mengirimkan rekapitulasi lengkap (termasuk nama pengajar, NIP, NIK, dan nomor rekening) langsung ke worksheet keuangan (tanpa pengisian form manual) untuk memproses pencairan honorarium.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Modul Pasca Pelatihan</span>"
     ]
@@ -144,7 +144,7 @@
     "href": "pasca.html#sertifikat-peserta",
     "title": "3  Modul Pasca Pelatihan",
     "section": "3.2 Sertifikat Peserta",
-    "text": "3.2 Sertifikat Peserta\nMenu untuk mengelola penomoran dan pencetakan sertifikat tanda tamat pelatihan.\n\nPilih program pelatihan pada menu dropdown.\nDownload Template: Klik untuk mengunduh format CSV yang sudah berisi ID dan Nama Peserta dari program tersebut.\nIsi Template: Buka file CSV yang diunduh, lalu lengkapi kolom Nomor Sertifikat dan Tanggal Sertifikat.\nUpload Data: Klik Upload Data dan masukkan template yang telah Anda lengkapi.\nCetak Sertifikat: Klik tombol ini, dan sistem akan memproses file sertifikat yang siap untuk didistribusikan.",
+    "text": "3.2 Sertifikat Peserta\nMenu untuk mengelola penomoran dan pencetakan sertifikat tanda tamat pelatihan.\n\nPilih program pelatihan pada menu dropdown.\nDownload Template: Klik untuk mengunduh format CSV yang sudah berisi ID dan Nama Peserta dari program tersebut.\nIsi Template: Buka file CSV yang diunduh, lalu lengkapi kolom Nomor Sertifikat dan Tanggal Sertifikat yang diperoleh dari Sekretaris Direktur.\nUpload Data: Klik Upload Data dan masukkan template yang telah Anda lengkapi.\nCetak Sertifikat: Klik tombol ini, dan sistem akan memproses file sertifikat, kemudian mengirimkan hasilnya ke alamat email pelatihan@pknstan.ac.id untuk diunggah ke sistem Nadine.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Modul Pasca Pelatihan</span>"
     ]
@@ -154,7 +154,7 @@
     "href": "master.html",
     "title": "4  Modul Data Master Pengajar",
     "section": "",
-    "text": "4.1 Mengelola Data Pengajar\nModul ini adalah pusat direktori data seluruh Widyaiswara atau Pengajar. Data di sini menjadi acuan dasar untuk penjadwalan dan proses honorarium.",
+    "text": "4.1 Mengelola Data Pengajar\nModul ini adalah pusat direktori data seluruh pengajar. Data di sini menjadi acuan dasar untuk penjadwalan dan proses honorarium.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Modul Data Master Pengajar</span>"
     ]
