@@ -30,3 +30,4 @@ Menu ini untuk menyusun agenda harian dan menugaskan pengajar.
 1.  Pilih program pelatihan yang dituju.
 2.  Klik **Tambah** untuk memasukkan jadwal harian secara manual. Anda dapat memilih Pengajar Utama dan Asisten Pengajar dari daftar yang tersedia.
 3.  Anda juga dapat menggunakan fitur **Upload CSV** untuk mengimpor jadwal secara massal. Sistem secara otomatis akan mencocokkan teks nama pengajar di CSV dengan *database master* pengajar di sistem.
+4.  Ketika melakukan Upload CSV jadwal, pastikan menggunakan penulisan nama yang sesuai dengan data yang telah ada dalam database. Jika penulisan nama tidak sesuai atau data pengajar belum ada, maka nama pengajar akan terekam sebagai **Unknown** dan perlu diperbaiki dengan tombol Edit untuk memilih nama pengajar dari dalam daftar.
