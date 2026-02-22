@@ -94,7 +94,7 @@
     "href": "penyelenggaraan.html#cetak-dokumen-operasional",
     "title": "2  Modul Penyelenggaraan",
     "section": "2.2 Cetak Dokumen Operasional",
-    "text": "2.2 Cetak Dokumen Operasional\nBerfungsi untuk men-generate dokumen fisik yang dibutuhkan di kelas.\n\nPilih Program Pelatihan dan Tanggal.\nPilih dokumen yang ingin dicetak: Daftar Hadir, Kartu Mengajar, atau Daftar Hadir Pengajar.\nSistem akan memproses permintaan dan dokumen yang di-generate akan dikirimkan ke email pelatihan@pknstan.ac.id.",
+    "text": "2.2 Cetak Dokumen Operasional\nBerfungsi untuk men-generate dokumen fisik yang dibutuhkan di kelas.\n\n\n\n\n\n\nFigure 2.1: Tampilan menu Cetak Dokumen Operasional.\n\n\n\n\nPilih Program Pelatihan dan Tanggal.\nPilih dokumen yang ingin dicetak: Daftar Hadir, Kartu Mengajar, atau Daftar Hadir Pengajar.\nSistem akan memproses permintaan dan dokumen yang di-generate akan dikirimkan ke email pelatihan@pknstan.ac.id.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Modul Penyelenggaraan</span>"
     ]
@@ -114,7 +114,7 @@
     "href": "penyelenggaraan.html#folder-dan-grup",
     "title": "2  Modul Penyelenggaraan",
     "section": "2.4 Folder dan Grup",
-    "text": "2.4 Folder dan Grup\nFitur otomatisasi untuk menyiapkan wadah aset digital kelas.\n\nBuat Folder Data: Klik tombol ini untuk menginstruksikan sistem membuat folder penyimpanan (cloud) secara otomatis. Folder tersebut sudah berisi struktur subfolder standar untuk menjaga keseragaman data.\nBuat Grup WA: Klik tombol ini untuk membuat tautan grup komunikasi (WhatsApp). Petugas piket akan secara otomatis ditambahkan ke dalam grup sebagai Admin.\nTautan folder dan tautan bergabung (join link) grup akan muncul di layar setelah proses selesai. Jika belum muncul, tekan tombol Refresh.",
+    "text": "2.4 Folder dan Grup\nFitur otomatisasi untuk menyiapkan dan menyimpan link folder Google Drive dan WhatsApp kelas. \n\nBuat Folder Data: Klik tombol ini untuk menginstruksikan sistem membuat folder penyimpanan (cloud) secara otomatis. Folder tersebut sudah berisi struktur subfolder standar untuk menjaga keseragaman data.\nBuat Grup WA: Klik tombol ini untuk membuat tautan grup komunikasi (WhatsApp). Petugas piket akan secara otomatis ditambahkan ke dalam grup sebagai Admin.\nTautan folder dan tautan bergabung (join link) grup akan muncul di layar setelah proses selesai. Jika belum muncul, tekan tombol Refresh.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Modul Penyelenggaraan</span>"
     ]
