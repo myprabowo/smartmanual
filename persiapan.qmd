@@ -3,7 +3,7 @@
 Modul ini digunakan pada tahap awal perencanaan sebelum diklat dimulai. Terdapat tiga sub-menu utama untuk mengelola master data dari suatu pelatihan.
 
 ## Program Pelatihan
-
+![Tampilan menu Persiapan Pelatihan di aplikasi SMART.](images/02-master-program.png){#fig-menu-program fig-align="center" width="100%"}
 Tempat untuk membuat dan mengelola daftar program pelatihan.
 
 -   **Tambah Program:** Klik tombol **Tambah**, isi rincian program (Nama, Tanggal Mulai & Selesai, Mitra, Kuota, Lokasi, dan Petugas Piket), lalu klik **Simpan**.

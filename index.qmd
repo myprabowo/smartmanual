@@ -4,12 +4,14 @@
 
 ## Memulai Penggunaan
 
+![Tampilan menu Persiapan Pelatihan di aplikasi SMART.](images/01-login-screen.png){#fig-login-screen fig-align="center" width="100%"}
+
 -   **Login:** Buka halaman utama aplikasi SMART. Masukkan *Username* dan *Password* yang telah diberikan. Akses menu yang muncul akan disesuaikan dengan peran Anda (Petugas Piket atau Administrator).
 -   **Navigasi:** Gunakan menu di bilah sisi (*sidebar*) sebelah kiri untuk berpindah antar modul aplikasi.
 -   **Profil Pengguna:** Di bagian atas *sidebar*, terdapat informasi nama dan peran Anda saat ini.
 -   **Tombol Aksi Cepat:**
-    -   **Refresh:** Berguna untuk menyinkronkan data di layar Anda dengan pembaruan terbaru dari pengguna/komputer lain.
-    -   **Keluar:** Mengakhiri sesi Anda (*Logout*) secara aman.
+-   **Refresh:** Berguna untuk menyinkronkan data di layar Anda dengan pembaruan terbaru dari pengguna/komputer lain.
+-   **Keluar:** Mengakhiri sesi Anda (*Logout*) secara aman.
 
 ## Tips Tampilan Data
 
