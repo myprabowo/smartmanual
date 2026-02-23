@@ -24,7 +24,7 @@
     "href": "index.html#tips-tampilan-data",
     "title": "Panduan Pengguna SMART",
     "section": "Tips Tampilan Data",
-    "text": "Tips Tampilan Data\n\nTabel pada sistem ini dirancang padat (squeezed) agar dapat menampilkan banyak data sekaligus.\nMelihat Teks Lengkap: Jika ada teks yang terpotong di dalam tabel, cukup arahkan kursor (hover) ke sel tersebut untuk melihat teks selengkapnya (lihat Figure 2 kolom 1).\n\n\n\n\n\n\n\nTip\n\n\n\nRefresh akan dilakukan secara otomatis setiap 60 detik. Untuk berjaga-jaga, biasakan menggunakan tombol Refresh manual sebelum melakukan perubahan data penting untuk memastikan Anda mengedit versi data yang paling mutakhir.",
+    "text": "Tips Tampilan Data\n\nTabel pada sistem ini dirancang padat (squeezed) agar dapat menampilkan banyak data sekaligus.\nMelihat Teks Lengkap: Jika ada teks yang terpotong di dalam tabel, cukup arahkan kursor (hover) ke sel tersebut untuk melihat teks selengkapnya (lihat Figure 2 baris 1).\n\n\n\n\n\n\n\nTip\n\n\n\nRefresh akan dilakukan secara otomatis setiap 60 detik. Untuk berjaga-jaga, biasakan menggunakan tombol Refresh manual sebelum melakukan perubahan data penting untuk memastikan Anda mengedit versi data yang paling mutakhir.",
     "crumbs": [
       "Akses Sistem dan Navigasi Dasar"
     ]
