@@ -14,7 +14,7 @@
     "href": "index.html#memulai-penggunaan",
     "title": "Panduan Pengguna SMART",
     "section": "Memulai Penggunaan",
-    "text": "Memulai Penggunaan\nSMART dapat diakses secara online melalui jaringan internet umum pada tautan berikut.\n\n\n\n\n\n\nFigure 1: Tampilan layar login aplikasi SMART.\n\n\n\n\nLogin: Buka halaman utama aplikasi SMART. Masukkan Username dan Password yang telah diberikan. Akses menu yang muncul akan disesuaikan dengan peran Anda (Petugas Piket atau Administrator).\nNavigasi: Gunakan menu di bilah sisi (sidebar) sebelah kiri untuk berpindah antar modul aplikasi.\nProfil Pengguna: Di bagian atas sidebar, terdapat informasi nama dan peran Anda saat ini.\nTombol Aksi Cepat:\nRefresh: Berguna untuk menyinkronkan data di layar Anda dengan pembaruan terbaru dari pengguna/komputer lain.\nKeluar: Mengakhiri sesi Anda (Logout) secara aman.",
+    "text": "Memulai Penggunaan\nSMART dapat diakses secara online melalui jaringan internet umum pada tautan berikut.\n\n\n\n\n\n\nFigure 1: Tampilan layar login aplikasi SMART.\n\n\n\n\n\n\n\n\n\nFigure 2: Tampilan layar utama aplikasi SMART.\n\n\n\n\nLogin: Buka halaman utama aplikasi SMART. Masukkan Username dan Password yang telah diberikan. Akses menu yang muncul akan disesuaikan dengan peran Anda (Petugas Piket atau Administrator).\nNavigasi: Gunakan menu di bilah sisi (sidebar) sebelah kiri untuk berpindah antar modul aplikasi.\nProfil Pengguna: Di bagian atas sidebar, terdapat informasi nama dan peran Anda saat ini.\nTombol Aksi Cepat:\n\nRefresh: Berguna untuk menyinkronkan data di layar Anda dengan pembaruan terbaru dari pengguna/komputer lain.\nKeluar: Mengakhiri sesi Anda (Logout) secara aman.",
     "crumbs": [
       "Akses Sistem dan Navigasi Dasar"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#tips-tampilan-data",
     "title": "Panduan Pengguna SMART",
     "section": "Tips Tampilan Data",
-    "text": "Tips Tampilan Data\n\nTabel pada sistem ini dirancang padat (squeezed) agar dapat menampilkan banyak data sekaligus.\nMelihat Teks Lengkap: Jika ada teks yang terpotong di dalam tabel, cukup arahkan kursor (hover) ke sel tersebut untuk melihat teks selengkapnya.\n\n\n\n\n\n\n\nTip\n\n\n\nRefresh akan dilakukan secara otomatis setiap 60 detik. Untuk berjaga-jaga, biasakan menggunakan tombol Refresh manual sebelum melakukan perubahan data penting untuk memastikan Anda mengedit versi data yang paling mutakhir.",
+    "text": "Tips Tampilan Data\n\nTabel pada sistem ini dirancang padat (squeezed) agar dapat menampilkan banyak data sekaligus.\nMelihat Teks Lengkap: Jika ada teks yang terpotong di dalam tabel, cukup arahkan kursor (hover) ke sel tersebut untuk melihat teks selengkapnya (lihat Figure 2 kolom 1).\n\n\n\n\n\n\n\nTip\n\n\n\nRefresh akan dilakukan secara otomatis setiap 60 detik. Untuk berjaga-jaga, biasakan menggunakan tombol Refresh manual sebelum melakukan perubahan data penting untuk memastikan Anda mengedit versi data yang paling mutakhir.",
     "crumbs": [
       "Akses Sistem dan Navigasi Dasar"
     ]
