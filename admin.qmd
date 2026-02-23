@@ -8,7 +8,12 @@ Menu ini hanya akan muncul di bilah sisi (*sidebar*) jika Anda memiliki hak akse
 
 Fitur keamanan untuk melacak seluruh jejak aktivitas pengguna di dalam sistem SMART. Sistem secara otomatis mencatat *timestamp* (stempel waktu), nama *user*, peran, tipe aktivitas (seperti login, menambah data, atau menghapus data), dan detail aktivitasnya.
 
+![Tampilan menu Audit Log.](images/05-audit-log.png){#fig-audit-log fig-align="center" width="100%"}
+
 ## Recycle Bin (Tempat Sampah)
+
+![Tampilan menu Recycle Bin.](images/05-recycle-bin.png){#fig-recycle-bin fig-align="center" width="100%"}
+
 
 -   Berfungsi sebagai tempat penampungan sementara untuk data yang telah dihapus (*Soft Delete*) oleh pengguna.
 -   Data yang dihapus tidak langsung hilang permanen dari *database*, melainkan masuk ke menu ini.
@@ -16,6 +21,9 @@ Fitur keamanan untuk melacak seluruh jejak aktivitas pengguna di dalam sistem SM
 -   **Cara Memulihkan:** Pilih baris data yang ingin dikembalikan, lalu klik tombol **Pulihkan** (ikon *trash-restore*). Data tersebut akan kembali muncul di sistem aktif.
 
 ## Manajemen Kunci Pelatihan
+
+![Tampilan menu Manajemen Kunci Pelatihan.](images/05-kunci-pelatihan.png){#fig-kunci-pelatihan fig-align="center" width="100%"}
+
 
 -   Digunakan untuk mengunci (*Lock*) program pelatihan yang pelaksanaannya sudah benar-benar *Selesai*.
 -   Klik pada salah satu baris pelatihan, lalu tekan tombol **Kunci / Buka Kunci**.

@@ -180,11 +180,21 @@
     ]
   },
   {
+    "objectID": "admin.html#audit-log",
+    "href": "admin.html#audit-log",
+    "title": "5  Modul Khusus Administrator",
+    "section": "",
+    "text": "Figure 5.1: Tampilan menu Audit Log.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modul Khusus Administrator</span>"
+    ]
+  },
+  {
     "objectID": "admin.html#recycle-bin-tempat-sampah",
     "href": "admin.html#recycle-bin-tempat-sampah",
     "title": "5  Modul Khusus Administrator",
     "section": "5.2 Recycle Bin (Tempat Sampah)",
-    "text": "5.2 Recycle Bin (Tempat Sampah)\n\nBerfungsi sebagai tempat penampungan sementara untuk data yang telah dihapus (Soft Delete) oleh pengguna.\nData yang dihapus tidak langsung hilang permanen dari database, melainkan masuk ke menu ini.\nAnda dapat meninjau data Peserta, Pengajar, atau Pelatihan yang dihapus.\nCara Memulihkan: Pilih baris data yang ingin dikembalikan, lalu klik tombol Pulihkan (ikon trash-restore). Data tersebut akan kembali muncul di sistem aktif.",
+    "text": "5.2 Recycle Bin (Tempat Sampah)\n\n\n\n\n\n\nFigure 5.2: Tampilan menu Recycle Bin.\n\n\n\n\nBerfungsi sebagai tempat penampungan sementara untuk data yang telah dihapus (Soft Delete) oleh pengguna.\nData yang dihapus tidak langsung hilang permanen dari database, melainkan masuk ke menu ini.\nAnda dapat meninjau data Peserta, Pengajar, atau Pelatihan yang dihapus.\nCara Memulihkan: Pilih baris data yang ingin dikembalikan, lalu klik tombol Pulihkan (ikon trash-restore). Data tersebut akan kembali muncul di sistem aktif.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modul Khusus Administrator</span>"
     ]
@@ -194,7 +204,7 @@
     "href": "admin.html#manajemen-kunci-pelatihan",
     "title": "5  Modul Khusus Administrator",
     "section": "5.3 Manajemen Kunci Pelatihan",
-    "text": "5.3 Manajemen Kunci Pelatihan\n\nDigunakan untuk mengunci (Lock) program pelatihan yang pelaksanaannya sudah benar-benar Selesai.\nKlik pada salah satu baris pelatihan, lalu tekan tombol Kunci / Buka Kunci.\nProgram yang dikunci akan memunculkan ikon gembok merah.\nFungsi Kunci: Mencegah pengguna biasa menambah, mengedit, atau menghapus data peserta, jadwal, dan absensi pada program tersebut demi menjaga integritas data riwayat diklat.",
+    "text": "5.3 Manajemen Kunci Pelatihan\n\n\n\n\n\n\nFigure 5.3: Tampilan menu Manajemen Kunci Pelatihan.\n\n\n\n\nDigunakan untuk mengunci (Lock) program pelatihan yang pelaksanaannya sudah benar-benar Selesai.\nKlik pada salah satu baris pelatihan, lalu tekan tombol Kunci / Buka Kunci.\nProgram yang dikunci akan memunculkan ikon gembok merah.\nFungsi Kunci: Mencegah pengguna biasa menambah, mengedit, atau menghapus data peserta, jadwal, dan absensi pada program tersebut demi menjaga integritas data riwayat diklat.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modul Khusus Administrator</span>"
     ]
