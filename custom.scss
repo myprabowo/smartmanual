@@ -37,29 +37,31 @@
    4. TWEAK RESPONSIVE UNTUK MOBILE (HP)
    ========================================== */
 @media (max-width: 768px) {
-  /* Memastikan kontainer flex tidak memaksa elemen keluar dari layar */
-  .navbar-brand-container, .navbar-brand {
+  /* Kontainer utama logo & judul */
+  .navbar-brand {
     display: flex !important;
     align-items: center !important;
-    flex-wrap: nowrap !important;
-    min-width: 0 !important; /* Mencegah overflow */
+    width: 100% !important; 
+    overflow: hidden !important; /* Cegah kebocoran area */
   }
 
-  /* Mengamankan logo agar TETAP UTUH dan tidak terpotong */
+  /* KUNCI UTAMA: Paksa logo punya batas minimal */
   .navbar-brand img {
-    width: 130px !important;         /* Lebar pasti untuk HP */
-    max-height: 45px !important;     /* Tinggi maksimal menyesuaikan */
-    object-fit: contain !important;  /* PAKSA gambar tampil utuh, anti-potong */
-    flex-shrink: 0 !important;       /* Dilarang keras dipencet oleh teks! */
-    margin-right: 8px !important;
+    min-width: 130px !important;     /* PAKSA HP menghormati lebar ini */
+    width: 130px !important;         
+    max-height: 45px !important;     
+    object-fit: contain !important;  
+    flex-shrink: 0 !important;       /* Dilarang keras dipencet */
+    margin-right: 12px !important;
   }
 
-  /* Mengatur teks judul agar mengalah dan turun ke baris baru */
+  /* Teks judul mengalah dan mengambil sisa ruang */
   .navbar-title {
-    font-size: 0.8rem !important;    /* Perkecil sedikit lagi */
-    line-height: 1.15 !important;    /* Jarak antar baris dirapatkan */
-    white-space: normal !important;  /* Izinkan teks melipat ke bawah */
-    flex-shrink: 1 !important;       /* Teks yang harus mengalah/mengecil */
+    font-size: 0.8rem !important;    
+    line-height: 1.2 !important;    
+    white-space: normal !important;  /* Izinkan turun baris */
+    overflow-wrap: break-word !important;
     word-wrap: break-word !important;
+    flex-grow: 1 !important;         /* Ambil sisa ruang yang ada */
   }
 }
