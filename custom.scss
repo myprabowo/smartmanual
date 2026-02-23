@@ -37,24 +37,29 @@
    4. TWEAK RESPONSIVE UNTUK MOBILE (HP)
    ========================================== */
 @media (max-width: 768px) {
-  /* Membungkus logo dan teks agar fleksibel */
-  .navbar-brand {
+  /* Memastikan kontainer flex tidak memaksa elemen keluar dari layar */
+  .navbar-brand-container, .navbar-brand {
     display: flex !important;
     align-items: center !important;
-    max-width: 85% !important; /* Sisakan ruang untuk tombol menu garis tiga */
+    flex-wrap: nowrap !important;
+    min-width: 0 !important; /* Mencegah overflow */
   }
 
-  /* Mengecilkan logo secara otomatis */
+  /* Mengamankan logo agar TETAP UTUH dan tidak terpotong */
   .navbar-brand img {
-    max-width: 140px !important; /* Batasi lebar maksimal logo di HP */
-    height: auto !important;     /* Tinggi otomatis menyesuaikan agar tidak gepeng */
+    width: 130px !important;         /* Lebar pasti untuk HP */
+    max-height: 45px !important;     /* Tinggi maksimal menyesuaikan */
+    object-fit: contain !important;  /* PAKSA gambar tampil utuh, anti-potong */
+    flex-shrink: 0 !important;       /* Dilarang keras dipencet oleh teks! */
     margin-right: 8px !important;
   }
 
-  /* Mengecilkan teks judul dan mengizinkannya turun baris */
+  /* Mengatur teks judul agar mengalah dan turun ke baris baru */
   .navbar-title {
-    font-size: 0.85rem !important;   /* Ukuran font lebih kecil */
-    white-space: normal !important;  /* Izinkan teks turun ke baris bawah */
-    line-height: 1.2 !important;     /* Jarak antar baris agar tetap rapi */
+    font-size: 0.8rem !important;    /* Perkecil sedikit lagi */
+    line-height: 1.15 !important;    /* Jarak antar baris dirapatkan */
+    white-space: normal !important;  /* Izinkan teks melipat ke bawah */
+    flex-shrink: 1 !important;       /* Teks yang harus mengalah/mengecil */
+    word-wrap: break-word !important;
   }
 }
