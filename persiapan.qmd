@@ -3,6 +3,7 @@
 Modul ini digunakan pada tahap awal perencanaan sebelum diklat dimulai. Terdapat tiga sub-menu utama untuk mengelola master data dari suatu pelatihan.
 
 ## Program Pelatihan
+
 ![Tampilan menu Persiapan Pelatihan di aplikasi SMART.](images/02-master-program.png){#fig-menu-program fig-align="center" width="100%"}
 
 -   **Tambah Program:** Klik tombol **Tambah**, isi rincian program (Nama, Tanggal Mulai & Selesai, Mitra, Kuota, Lokasi, dan Petugas Piket), lalu klik **Simpan**.
@@ -15,7 +16,7 @@ Ikon gembok (🔒) di sebelah nama program menandakan bahwa program tersebut tel
 
 ## Data Peserta
 
-Menu ini untuk mendaftarkan peserta ke dalam suatu program pelatihan. Jika pelatihan berjenis multipemda, maka pengisian data dilakukan secara mandiri pada saat mendaftar di Portal Pelatihan.
+Menu ini untuk mendaftarkan peserta ke dalam suatu program pelatihan. Jika pelatihan berjenis multipemda, maka pengisian data dilakukan secara mandiri pada saat mendaftar di [Portal Pendaftaran Pelatihan](https://registrasi.maiaidi.my.id).
 
 ![Tampilan menu Data Peserta.](images/02-data-peserta.png){#fig-menu-peserta fig-align="center" width="100%"}
 
